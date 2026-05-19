@@ -51,7 +51,7 @@ A modern and responsive developer portfolio website built using **React.js**, **
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero](./src/assets/hero-preview.png)
+![Hero](./src/assets/portfolio.png)
 
 ### Projects Section
 ![Projects](./src/assets/projects-preview.png)
