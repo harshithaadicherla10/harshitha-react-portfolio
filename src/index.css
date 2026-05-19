@@ -1,0 +1,36 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.animate-float-delay {
+  animation: float 4s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.animate-float-slow {
+  animation: float 4s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.animate-float-fast {
+  animation: float 3s ease-in-out infinite;
+}
