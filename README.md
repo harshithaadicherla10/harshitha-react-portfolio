@@ -1,16 +1,115 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Harshitha React Portfolio
 
-Currently, two official plugins are available:
+A modern and responsive developer portfolio website built using **React.js**, **Tailwind CSS**, and **Vite** showcasing projects, certifications, technical skills, and full stack development expertise.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern UI/UX Design
+- Fully Responsive Layout
+- Animated Glassmorphism Effects
+- Mobile Responsive Navbar
+- Smooth Hover Animations
+- Projects Showcase
+- Certifications Section
+- Education Timeline
+- Contact Section
+- Resume Download CTA
+- Optimized Performance
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vite
+
+### Libraries & Tools
+- React Icons
+- CSS Animations
+- Responsive Design
+
+---
+
+## 📂 Sections Included
+
+- Hero Section
+- About
+- Skills
+- Projects
+- Certifications
+- Education
+- Contact
+- Footer
+
+---
+
+## 📸 Screenshots
+
+### Hero Section
+![Hero](./src/assets/hero-preview.png)
+
+### Projects Section
+![Projects](./src/assets/projects-preview.png)
+
+### Certifications Section
+![Certifications](./src/assets/certifications-preview.png)
+
+---
+
+## 🚀 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/harshitha-react-portfolio.git
+cd harshitha-react-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 Future Improvements
+
+- Dark/Light Theme Toggle
+- Framer Motion Animations
+- Blog Section
+- Live Project Deployment Links
+- Advanced UI Interactions
+
+---
+
+## 👩‍💻 Author
+
+**Harshitha Adicherla**
+
+- GitHub: https://github.com/harshithaadicherla10
+- LinkedIn: https://linkedin.com/in/harshithaadicherla10
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
