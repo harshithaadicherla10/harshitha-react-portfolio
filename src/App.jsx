@@ -66,6 +66,52 @@ useEffect(() => {
   },
 
   {
+  title: "TrackHire – Full Stack Job Tracker",
+
+  desc:
+    "Modern full-stack job application tracking system with authentication, role-based access, analytics dashboard, filtering, and PostgreSQL integration built using Flask.",
+
+  tech: [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "Bootstrap",
+    "JavaScript",
+    "Chart.js",
+    "Gunicorn",
+  ],
+
+  github:
+    "https://github.com/harshithaadicherla10/trackhire-job-tracker",
+
+  image: trackhireImg,
+},
+
+  {
+  title: "Modern React Portfolio Website",
+
+  desc:
+    "Modern responsive portfolio website built using React and Tailwind CSS showcasing projects, skills, certifications, and contact information with smooth UI animations, glassmorphism effects, and responsive layouts.",
+
+  tech: [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "Vite",
+    "Responsive Design",
+    "UI/UX",
+  ],
+
+  github:
+    "https://github.com/yourusername/react-portfolio",
+
+  live:
+    "https://yourportfolio.vercel.app",
+
+  image: portfolioImg,
+},
+
+  {
     title: "Employee Management System",
 
     desc:
@@ -128,52 +174,6 @@ useEffect(() => {
 
     image: ecommerceImg,
   },
-
-  {
-  title: "Modern React Portfolio Website",
-
-  desc:
-    "Modern responsive portfolio website built using React and Tailwind CSS showcasing projects, skills, certifications, and contact information with smooth UI animations, glassmorphism effects, and responsive layouts.",
-
-  tech: [
-    "React.js",
-    "Tailwind CSS",
-    "JavaScript",
-    "Vite",
-    "Responsive Design",
-    "UI/UX",
-  ],
-
-  github:
-    "https://github.com/yourusername/react-portfolio",
-
-  live:
-    "https://yourportfolio.vercel.app",
-
-  image: portfolioImg,
-},
-
-{
-  title: "TrackHire – Full Stack Job Tracker",
-
-  desc:
-    "Modern full-stack job application tracking system with authentication, role-based access, analytics dashboard, filtering, and PostgreSQL integration built using Flask.",
-
-  tech: [
-    "Python",
-    "Flask",
-    "PostgreSQL",
-    "Bootstrap",
-    "JavaScript",
-    "Chart.js",
-    "Gunicorn",
-  ],
-
-  github:
-    "https://github.com/harshithaadicherla10/trackhire-job-tracker",
-
-  image: trackhireImg,
-},
 
 ];
 
@@ -412,7 +412,8 @@ useEffect(() => {
 
       {/* Resume */}
       <a
-        href="#"
+        href="/public/resume/Harshitha_Adicherla_Full_Stack_Resume.pdf"
+        download
         className="bg-gradient-to-r from-purple-500 to-pink-500 hover:scale-105 text-white px-8 py-4 rounded-2xl font-bold transition duration-300 shadow-lg shadow-pink-500/20"
       >
         Download Resume
