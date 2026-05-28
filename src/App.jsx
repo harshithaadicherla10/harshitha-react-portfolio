@@ -412,7 +412,7 @@ useEffect(() => {
 
       {/* Resume */}
       <a
-        href="/public/resume/Harshitha_Adicherla_Full_Stack_Resume.pdf"
+        href="/resume/Harshitha_Resume.pdf"
         download
         className="bg-gradient-to-r from-purple-500 to-pink-500 hover:scale-105 text-white px-8 py-4 rounded-2xl font-bold transition duration-300 shadow-lg shadow-pink-500/20"
       >
